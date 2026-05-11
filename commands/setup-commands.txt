@@ -1,0 +1,4 @@
+kubeadm init
+helm install
+kubectl apply
+CRUD commands
