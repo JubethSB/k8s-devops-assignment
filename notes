@@ -1,0 +1,19 @@
+Kubernetes DevOps Assignment Notes
+
+- Created self-hosted Kubernetes cluster using kubeadm on AWS EC2 Ubuntu 22.04
+- Configured Flannel CNI networking
+- Installed Helm package manager
+- Deployed Spark Operator using Helm
+- Executed SparkPi sample job
+- Installed PostgreSQL, MongoDB, and Redis
+- Configured local-path storage provisioner for Persistent Volumes
+- Performed PostgreSQL CRUD operations
+- Performed Redis CRUD operations
+
+Challenges Faced
+- Limited AWS Free Tier resources caused some pods to remain in Pending state
+- Fixed PersistentVolumeClaim issue using local-path provisioner
+- Reduced memory usage for lightweight deployments
+
+Outcome
+- Successfully completed Kubernetes setup and service deployments with screenshots and documentation
