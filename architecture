@@ -1,0 +1,7 @@
+AWS EC2 Ubuntu 22.04
+        |
+Kubernetes Cluster (kubeadm)
+        |
+--------------------------------
+| Spark | PostgreSQL | Redis |
+--------------------------------
