@@ -77,8 +77,8 @@ k8s-devops-assignment/
 ├── screenshots/
 │   ├── 01-kubernetes-node-ready.jpg
 │   ├── 02-spark-operator-running.jpg
-│   ├── 03-main-services-running.png.jpg
-│   ├── 04-spark-pi-result.png.jpg
+│   ├── 03-main-services-running.jpg
+│   ├── 04-spark-pi-result.jpg
 │   ├── 05-postgres-create-read.jpg
 │   ├── 06-postgres-update-delete.jpg
 │   └── 07-redis-crud.jpg
@@ -97,10 +97,10 @@ k8s-devops-assignment/
 ![Spark Operator Running](screenshots/02-spark-operator-running.jpg)
 
 ### 3. Main Services Running
-![Main Services Running](screenshots/03-main-services-running.png.jpg)
+![Main Services Running](screenshots/03-main-services-running.jpg)
 
 ### 4. SparkPi Sample Job
-![SparkPi Result](screenshots/04-spark-pi-result.png.jpg)
+![SparkPi Result](screenshots/04-spark-pi-result.jpg)
 
 ### 5. PostgreSQL Create and Read
 ![PostgreSQL Create Read](screenshots/05-postgres-create-read.jpg)
